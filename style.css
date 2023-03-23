@@ -23,3 +23,73 @@
     cursor: pointer;
     margin-top: 20px;
 }
+.conteinar-cetagoris{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.cat1{
+    background-image: linear-gradient(180deg,rgb(253, 164, 0), rgb(152, 101, 8));
+}
+.cat2{
+    background-image: linear-gradient(180deg,orchid,rgb(152, 12, 147));
+}
+.cat3{
+    background-color: blue;
+    background-image: linear-gradient(180deg,blue,rgb(91, 91, 212));
+}
+
+ .cat3 img{
+    width: 100px;
+}
+.cat1 img{
+    width: 100px;
+}
+.cat2 img{
+    width: 100px;
+
+}
+.loket-conteiner{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card img{
+    width: 200px;
+    margin-left: 100px;
+}
+#godalocet{
+    width: 170px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.book-conteinar{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card-footer{
+    border-top: none;
+}
+
+.subscribe-continer{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 70px;
+}
+footer{
+    margin-top: 12px;
+    font-size: 12px;
+    text-align: center;
+}
